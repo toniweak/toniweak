@@ -9,5 +9,3 @@ Coding is my life. I travel the globe building secure, decentralized infrastruct
 
 * **🔭 Currently working on:** An encrypted peer-to-peer group chat network.
 * **🤝 Always open to:** Collaborating on open-source, decentralized projects.
-
----
