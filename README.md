@@ -11,4 +11,4 @@ Coding is my life. I travel the globe building secure, decentralized infrastruct
 * **🤝 Always open to:** Collaborating on open-source, decentralized projects.
 
 ---
-📫 **Reach me:** [Add your Link/Email here]
+📫 **Reach me:** [hello@toniweak.com](mailto:hello@toniweak.com)
